@@ -13,6 +13,7 @@ public class Hub1 {
         }
         for (int ab:arr){
             System.out.println(ab);
+            System.out.println("我是你爸爸");
         }
     }
 }
