@@ -11,8 +11,8 @@ public class Hub1 {
                 }
             }
         }
-        for (int a:arr){
-            System.out.println(a);
+        for (int ab:arr){
+            System.out.println(ab);
         }
     }
 }
